@@ -57,10 +57,10 @@ Todo
 Contribute
 ----------
 
-`Fork <http://help.github.com/fork-a-repo/>`_ this repo on `GitHub <https://github.com/toxinu/pyping>`_ and `send <http://help.github.com/send-pull-requests>`_ pull requests. Thank you.
+`Fork <http://help.github.com/fork-a-repo/>`_ this repo on `GitHub <https://github.com/giokara/pyping>`_ and `send <http://help.github.com/send-pull-requests>`_ pull requests. Thank you.
 
 Links
 -----
 
- - Sourcecode at GitHub: https://github.com/toxinu/pyping
- - Python Package Index: http://pypi.python.org/pypi/pyping/
+ - Sourcecode at GitHub: https://github.com/giokara/pyping [based on https://github.com/toxinu/pyping]
+ - Python Package Index: http://pypi.python.org/pypi/pyping3/
